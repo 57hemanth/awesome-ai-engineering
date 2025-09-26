@@ -1,0 +1,19 @@
+{
+  "name": "03-tool-calling-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@langchain/google-genai": "^0.2.18",
+    "dotenv": "^17.2.2",
+    "langchain": "^1.0.0-alpha.6",
+    "zod": "^4.1.11"
+  }
+}
